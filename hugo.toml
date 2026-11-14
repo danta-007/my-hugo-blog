@@ -1,0 +1,28 @@
+baseURL = "https://xxx.github.io/"
+languageCode = "zh-cn"
+title = "欢迎来到我的世界"
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "auto"
+  [params.profileMode]
+    enabled = true
+    title = "danta"
+    subtitle = "danta's talk"
+    imageUrl = "/images/avatar.jpg"
+    imageWidth = 120
+    imageHeight = 120
+
+[menu]
+  [[menu.main]]
+    name = "首页"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "文章"
+    url = "/posts/"
+    weight = 2
+  [[menu.main]]
+    name = "关于"
+    url = "/about/"
+    weight = 3
