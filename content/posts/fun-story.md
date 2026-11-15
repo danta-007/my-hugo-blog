@@ -19,9 +19,10 @@ title = 'Fun Story'
 
 （附赠几张很有感觉的照片嘻嘻）
 
-![照片1](../images/pic1.jpg)
-![照片2](../images/pic2.jpg)
-![照片3](../images/pic3.jpg)
+![照片1](/my-hugo-blog/images/pic1.jpg)
+![照片2](/my-hugo-blog/images/pic2.jpg)
+![照片3](/my-hugo-blog/images/pic3.jpg)
+
 
 
 
