@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>文章 on 欢迎来到我的世界</title><link>https://xxx.github.io/posts/</link><description>Recent content in 文章 on 欢迎来到我的世界</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Sat, 14 Nov 2026 22:39:32 +0800</lastBuildDate><atom:link href="https://xxx.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Fun Story</title><link>https://xxx.github.io/posts/fun-story/</link><pubDate>Sat, 14 Nov 2026 22:39:32 +0800</pubDate><guid>https://xxx.github.io/posts/fun-story/</guid><description>&lt;h1 id="20261113"&gt;2026.11.13&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>文章 on 欢迎来到我的世界</title><link>https://danta-007.github.io/my-hugo-blog/posts/</link><description>Recent content in 文章 on 欢迎来到我的世界</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Sat, 14 Nov 2026 22:39:32 +0800</lastBuildDate><atom:link href="https://danta-007.github.io/my-hugo-blog/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Fun Story</title><link>https://danta-007.github.io/my-hugo-blog/posts/fun-story/</link><pubDate>Sat, 14 Nov 2026 22:39:32 +0800</pubDate><guid>https://danta-007.github.io/my-hugo-blog/posts/fun-story/</guid><description>&lt;h1 id="20261113"&gt;2026.11.13&lt;/h1&gt;
 &lt;p&gt;周末的快乐呀&lt;/p&gt;
 &lt;p&gt;就是用美景温润双眼，&lt;/p&gt;
 &lt;p&gt;美食填饱肚子，&lt;/p&gt;
 &lt;p&gt;还有用人间烟火气来抚摸心灵，&lt;/p&gt;
 &lt;p&gt;丰富着我的内心世界。&lt;/p&gt;
 &lt;p&gt;（附赠几张很有感觉的照片嘻嘻）&lt;/p&gt;
-&lt;p&gt;&lt;img alt="照片1" loading="lazy" src="https://xxx.github.io/images/pic1.jpg"&gt;
-&lt;img alt="照片2" loading="lazy" src="https://xxx.github.io/images/pic2.jpg"&gt;
-&lt;img alt="照片3" loading="lazy" src="https://xxx.github.io/images/pic3.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="照片1" loading="lazy" src="https://danta-007.github.io/my-hugo-blog/images/pic1.jpg"&gt;
+&lt;img alt="照片2" loading="lazy" src="https://danta-007.github.io/my-hugo-blog/images/pic2.jpg"&gt;
+&lt;img alt="照片3" loading="lazy" src="https://danta-007.github.io/my-hugo-blog/images/pic3.jpg"&gt;&lt;/p&gt;
 &lt;h2 id="一些碎碎念"&gt;一些碎碎念&lt;/h2&gt;
 &lt;p&gt;秋意已深，冬日将至。&lt;/p&gt;
 &lt;p&gt;见落叶飘落，金黄&lt;/p&gt;
@@ -21,7 +21,7 @@
 &lt;p&gt;记得来上一碗热粥，&lt;/p&gt;
 &lt;p&gt;秋风拂过时，&lt;/p&gt;
 &lt;p&gt;也在诉说着，&lt;/p&gt;
-&lt;p&gt;我们一起在这个秋邂逅。&lt;/p&gt;</description></item><item><title>First Article</title><link>https://xxx.github.io/posts/first-article/</link><pubDate>Sat, 14 Nov 2026 06:17:32 -0500</pubDate><guid>https://xxx.github.io/posts/first-article/</guid><description>&lt;h1 id="dantas-first-blog"&gt;danta&amp;rsquo;s first blog!&lt;/h1&gt;
+&lt;p&gt;我们一起在这个秋邂逅。&lt;/p&gt;</description></item><item><title>First Article</title><link>https://danta-007.github.io/my-hugo-blog/posts/first-article/</link><pubDate>Sat, 14 Nov 2026 06:17:32 -0500</pubDate><guid>https://danta-007.github.io/my-hugo-blog/posts/first-article/</guid><description>&lt;h1 id="dantas-first-blog"&gt;danta&amp;rsquo;s first blog!&lt;/h1&gt;
 &lt;p&gt;成功在Kali上搭建好 Hugo + PaperMod！&lt;/p&gt;
 &lt;h2 id="环境信息"&gt;环境信息&lt;/h2&gt;
 &lt;ul&gt;
