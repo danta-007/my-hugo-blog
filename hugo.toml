@@ -1,4 +1,4 @@
-baseURL = "https://xxx.github.io/"
+baseURL = "https://danta-007.github.io/my-hugo-blog/"
 languageCode = "zh-cn"
 title = "欢迎来到我的世界"
 theme = "PaperMod"
@@ -20,7 +20,7 @@ theme = "PaperMod"
     weight = 1
   [[menu.main]]
     name = "文章"
-    url = "/posts/"
+    url = "posts/"
     weight = 2
   [[menu.main]]
     name = "关于"
